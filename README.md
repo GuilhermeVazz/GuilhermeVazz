@@ -1,7 +1,7 @@
 
 ### Olá | Hi👋
 Atualmente estudo Análise e Dev. Sistemas e considero FrontEnd como minha vocação
-- 🔭 Estudando atualmente JS além de React/ReactNative e Angular.
+- 🔭 Estudando atualmente JS além de React e Angular.
 - 🌱 Aqui você pode encontrar alguns reposítorios que provavelmente irá te interessar.
 - 🤝 Atualmente procuro oportunidades de auxiliar e ser prestativos em projetos reais. 
 
